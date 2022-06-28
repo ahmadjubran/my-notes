@@ -38,5 +38,3 @@ Bad developers complicate things unnecessarily, while good developers strive for
 ### Complexity
 
 Your main purpose is to control complexity, not to create it.
-
-Thank you.
